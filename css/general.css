@@ -130,6 +130,7 @@ input:active{
     min-width:fit-content;
     margin:auto;
     background-color:azure;
+    text-align:center;
 }
 
 .company_photo{
