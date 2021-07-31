@@ -177,9 +177,12 @@ input:active{
     padding:25px;
 }
 
-@media only screen and (max-width: 1000px){
-    a {
+@media only screen and (max-width: 6s00px){
+    /* a {
         display:none;
         width:100%;
+    } */
+    .main-nav{
+        flex-direction:column;
     }
 }
